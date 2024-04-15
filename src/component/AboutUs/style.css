@@ -1,0 +1,114 @@
+#About-us {
+  width: 100%;
+}
+
+.about-us-content-paragraph {
+  text-align: center;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  margin-bottom: 50px;
+  margin-top: 60px;
+}
+.about-us-content-images {
+  display: flex;
+  justify-content: center;
+  column-gap: 50px;
+}
+.logo-image {
+  width: 130px;
+  height: 30px;
+  object-fit: contain;
+}
+.description {
+  display: flex;
+  column-gap: 60px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  
+}
+.aboutus-left-section-content {
+  font-weight: 800;
+  font-size: 40px;
+  letter-spacing: -1px;
+  line-height: 52px;
+  color: #000000;
+}
+.mid-content-wrapper{
+  display: flex;
+  justify-content: center;
+}
+.mid-quote-content {
+  padding: 60px 150px;
+  background: transparent linear-gradient(172deg, #f3733733 0%, #107cda33 100%)
+    0% 0% no-repeat padding-box;
+  border: 1px solid #f37337;
+  border-radius: 138px;
+  color: #f37337;
+  width: 888px;
+  font-weight: 600;
+  font-size: 30px;
+  margin: auto;
+  height: 190px;
+  text-align:center;
+  padding-top: 50px;
+}
+.quotes {
+  opacity: 0.5;
+  font-style: oblique;
+}
+.vision-mission {
+  padding: 10px 100px;
+  margin-top: 100px;
+}
+.left-vision-content,
+.right-mission-content {
+  border-radius: 20px;
+  background-color: #f6f6f6;
+  padding: 30px;
+  height: 470px;
+}
+.left-vision-content p,
+.right-mission-content p {
+  color: #231f1f;
+  opacity: 0.8;
+}
+.left-vision-content h3,
+.right-mission-content h3 {
+  font-size: 34px;
+  font-weight: 900;
+  color: #000000;
+}
+.left-vision-content:hover {
+  background-color: pink;
+}
+.right-mission-content:hover {
+  background-color: aquamarine;
+}
+.aboutus-right-section-content {
+  font-size: 20px;
+  line-height: 34px;
+  color: #231f1f;
+  opacity: 0.8;
+}
+.logo-symbol {
+  width: 62px;
+  height: 62px;
+  margin-right: 24px;
+}
+.sub-heading {
+  font-size: 30px;
+  font-weight: 700;
+  height: 60px;
+  width: 60px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  padding-top: 30px;
+}
